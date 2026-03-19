@@ -71,7 +71,7 @@ jupyter notebook MLmicromilling_User_interface_for_Github.ipynb
 If you use this repository, please cite our manuscript:
 
 > Norouzi, A., et al.
-> *Machine learning–guided prediction of surface roughness and hydraulic performance in micromilled PMMA microfluidics*. (2025).
+> *Machine Learning-Assisted Optimization of CNC-Micromilled PMMA Microchannels for Predictable Hydraulic Performance and Low Protein Fouling Resistance*. (202).
 
 ---
 
