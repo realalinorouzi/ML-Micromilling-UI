@@ -71,8 +71,8 @@ jupyter notebook MLmicromilling_User_interface_for_Github.ipynb
 If you use this repository, please cite our manuscript:
 
 > Norouzi, A., et al.
-> *Machine Learning-Assisted Optimization of CNC-Micromilled PMMA Microchannels for Predictable Hydraulic Performance and Low Protein Fouling Resistance*. (202).
-
+> *Machine Learning-Assisted Optimization of CNC-Micromilled PMMA Microchannels for Predictable Hydraulic Performance and Low Protein Fouling Resistance*. (2026).
+DOI: https://doi.org/10.1016/j.biosx.2026.100781
 ---
 
 ## 📜 License
